@@ -3,7 +3,6 @@
 - I’m looking to collaborate on something
 - 📫 How to reach me (『P』『a』『r』『i』#9137)
 
-[![Crussader's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crussader&cound_private=true&theme=ayu-mirage)](https://github.com/Crussader/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crussader&repo=DaPanda_MusicCog&theme=ayu-mirage)](https://github.com/Crussader/github-readme-stats)
