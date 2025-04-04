@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Crussader
 - I’m currently learning in school
 - I’m looking to collaborate on something
-- 📫 How to reach me (『P』『a』『r』『i』#9137)
 
 
 
