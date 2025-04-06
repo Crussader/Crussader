@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crussader&show_icons=true&locale=en&layout=donut-vertical" alt="crussader" /></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crussader&show_icons=true&locale=en" alt="crussader" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crussader&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="crussader" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crussader&" alt="crussader" /></p>
